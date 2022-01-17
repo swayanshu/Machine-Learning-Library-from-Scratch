@@ -2,7 +2,7 @@
 
 
 1st package: 
-# [Classification-Evaluation-Metrics](https://pypi.org/project/summary-classification/)
+# [Classification-Evaluation-Metrics](https://pypi.org/project/Cls-Evaluation/0.0.1/)
 
 ### Basic metrics for evaluating classification results
 
