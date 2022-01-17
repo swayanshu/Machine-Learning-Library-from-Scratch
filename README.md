@@ -1,7 +1,9 @@
 
-https://pypi.org/project/summary-classification/
 
-# 1st package: Summary-classification 0.0.1 
+
+1st package: 
+# [Summary-classification 0.0.1](https://pypi.org/project/summary-classification/)
+
 ### Basic metrics for evaluating classification results
 
 [![PyPI version](https://badge.fury.io/py/0.0.1.svg)](https://badge.fury.io/py/0.0.1) [![Python 3.7.7](https://img.shields.io/pypi/pyversions/python-gitlab.svg)](https://www.python.org/downloads/release/python-360/)
