@@ -36,7 +36,7 @@ pip install Cls-Evaluation==0.0.1
 ## Simple Demo
 
 
-```sh
+```ruby
 from setuptools import setup, find_packages
 import Cls_evaluation as cl
 conf_matrix = cl.confusion_matrix([1,0,0,1,1,0],[0,1,0,1,1,1])
