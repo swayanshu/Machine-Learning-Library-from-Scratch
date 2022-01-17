@@ -7,7 +7,7 @@
 ### Basic metrics for evaluating classification results
 
 [![PyPI version](https://badge.fury.io/py/0.0.1.svg)](https://badge.fury.io/py/0.0.1) [![Python 3.7.7](https://img.shields.io/pypi/pyversions/python-gitlab.svg)](https://www.python.org/downloads/release/python-360/)
-## Features
+## Functionalities
 
 - Calculate True positive, true negative, false positive and false negative
 - Accuracy = (TP+TN)/(TP+TN+FP+FN)
