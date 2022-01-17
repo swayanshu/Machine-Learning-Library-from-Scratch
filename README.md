@@ -31,7 +31,7 @@
 Install the dependencies from setup.py.
 
 ```sh
-pip install summary-classification
+pip install Cls-Evaluation==0.0.1
 ```
 
 ## License
