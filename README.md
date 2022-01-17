@@ -33,6 +33,26 @@ Install the dependencies from setup.py.
 ```sh
 pip install Cls-Evaluation==0.0.1
 ```
+## Simple Demo
+
+
+```sh
+from setuptools import setup, find_packages
+import Cls_evaluation as cl
+conf_matrix = cl.confusion_matrix([1,0,0,1,1,0],[0,1,0,1,1,1])
+
+print("Accuracy", cl.acc(conf_matrix))
+print("Precision",cl.precision(conf_matrix))
+print("Recall",cl.recall(conf_matrix))
+print("F1 score", cl.F1(conf_matrix))
+print("FDR",cl.FDR(conf_matrix))
+
+Accuracy 0.5
+Precision 0.5
+Recall 0.6666666666666666
+F1 score 0.5714285714285714
+FDR 0.5
+```
 
 ## License
 OSI Approved :: MIT License
