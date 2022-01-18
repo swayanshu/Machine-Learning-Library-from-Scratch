@@ -20,5 +20,5 @@ setup(
   classifiers=classifiers,
   keywords='summary, F1 score, accuracy, confusion matrix, FDR', 
   packages=find_packages(),
-  install_requires=[''] # a list of other Python modules which this module depends on.  For example RPi.GPIO
+  install_requires=[''] # a list of other Python modules which this module depends on. 
 )
