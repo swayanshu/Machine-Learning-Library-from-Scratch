@@ -59,3 +59,7 @@ OSI Approved :: MIT License
 
 ## Intended Audience
 Education
+
+## Reference
+
+Scikit learn (https://scikit-learn.org/stable/)
